@@ -5,6 +5,10 @@ This project replicates a real-world JARVIS-style AI system capable of automatio
 
 ---
 
+### 💻Screen Shot Demo (1)
+<img width="1365" height="767" alt="Screenshot 2026-02-21 130448" src="https://github.com/user-attachments/assets/fc58e2b5-b359-4fa6-95a9-e5f6c6580120" />
+
+---
 ## 🚀 Features
 
 ### 🎙️ Voice Interaction
@@ -15,7 +19,7 @@ This project replicates a real-world JARVIS-style AI system capable of automatio
 
 ---
 
-### 💻Screen Shot Demo (1)
+### 💻Screen Shot Demo (2)
 <img width="1349" height="765" alt="Screenshot 2026-02-21 125806" src="https://github.com/user-attachments/assets/64f264d3-b1eb-43d0-868d-f04a901c8c95" />
 
 ---
@@ -28,7 +32,7 @@ This project replicates a real-world JARVIS-style AI system capable of automatio
 
 ---
 
-### 💻Screen Shot Demo (2)
+### 💻Screen Shot Demo (3)
 <img width="1365" height="767" alt="Screenshot 2026-02-21 130025" src="https://github.com/user-attachments/assets/cbf07800-ec4c-4c77-af02-fabf84042f3e" />
 
 ---
@@ -43,7 +47,7 @@ This project replicates a real-world JARVIS-style AI system capable of automatio
 ---
 
 
-### 💻Screen Shot Demo (3)
+### 💻Screen Shot Demo (4)
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/1a75c237-9112-421e-8d76-006e0ad03b80" />
 ###
 ---
@@ -54,7 +58,11 @@ This project replicates a real-world JARVIS-style AI system capable of automatio
 - Automated email sending workflow
 
 ---
+### 💻Screen Shot Demo (5)
+<img width="1355" height="613" alt="Screenshot 2026-02-21 134057" src="https://github.com/user-attachments/assets/ab33c45f-bf73-4c7d-9dad-92e70ef5e97d" />
 
+###
+---
 ### 💬 WhatsApp Automation
 - Send WhatsApp messages automatically
 - Predefined message execution
